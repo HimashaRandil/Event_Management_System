@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1629049791 source:d:\nibm\202f batch\7. object oriented programming\codse192f-019\codse192f-019.cpp
+	<iostream>
+	<string.h>
+	<conio.h>
+	<stdlib.h>
+	<fstream>
+	<windows.h>
+	<climits>
+	<iomanip>
+	<stdio.h>
+

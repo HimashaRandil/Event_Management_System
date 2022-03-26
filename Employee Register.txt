@@ -1,0 +1,7 @@
+   1000      Thaveesha     760197557             Manager      150000             IT
+   1001       Bawantha     763883057            Engineer      180000    Operational
+   1002        Himasha     767571701             Manager      175000        Finance
+   1003          Himan     776148280           Executive      140000             HR
+   1004        Rukshan     773669295                 CEO      200000        General
+   1006        Himasha     767517701                 CEO      300000             HR
+   1007        Kulindu      77613038             Manager      176000             HR
